@@ -17,7 +17,11 @@ color: white;
 font-weight: 300;
 font-size: 42px;
 }
-p {
+p, h3 {
   font-size: 21px;
   color: gray;
+}
+
+h3 {
+  text-align-last: right;
 }

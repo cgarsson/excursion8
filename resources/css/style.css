@@ -4,7 +4,7 @@ h1 {
   color: white;
 }
 body {
-  background-color: purple;
+  background-color: black;
   text-align: center;
   font-family: Verdana;
 }
@@ -16,4 +16,8 @@ h2 {
 color: white;
 font-weight: 300;
 font-size: 42px;
+}
+p {
+  font-size: 21px;
+  color: gray;
 }
